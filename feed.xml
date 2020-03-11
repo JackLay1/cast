@@ -33,7 +33,12 @@
 		<itunes:duration>xx:xx:xx</itunes:duration>
 		<itunes:keywords />
 		<itunes:subtitle> <![CDATA[same as description]]> </itunes:subtitle>
-		<itunes:summary><same as description></itunes:summary>
+		<itunes:summary><![CDATA[
+			Thumo:http://twitter.com/PussyMusty
+			Jack:http://twitter.com/GardenClog
+			Jake:http://twitter.com/FoolishSuckaa
+			Cole:http://twitter.com/HolesomePosts
+		]]></itunes:summary>
 		<itunesLepisodeType>full</itunesLepisodeType>
 	</item>
 
