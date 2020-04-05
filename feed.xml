@@ -40,7 +40,11 @@ version="2.0">
 		us
 	</spotify:countryOfOrigin>
 
-	
+	<itunes:owner>
+		<itunes:email>
+			jachlay@gmail.com
+		</itunes:email>
+	</itunes:owner>	
 	
 	<image>
 		<title>Pawg Cast</title>
