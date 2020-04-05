@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss
-xmlns:media="https://search.yahoo.com/mrss/"
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:media="https://search.yahoo.com/mrss/"
 xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:dcterms="https://purl.org/dc/terms/"
 xmlns:spotify="https://www.spotify.com/ns/rss"
 xmlns:psc="https://podlove.org/simple-chapters/"
 version="2.0">
-</rss>
 
-<Channel>
+<channel>
 	<title> Short-Bus Militia </title>
 	<link>https://www.pawgcast.com</link>
 	<description> Short-Bus Militia </description>
@@ -26,8 +25,12 @@ version="2.0">
 	</itunes:explicit>
 
 	<itunes:category text="Comedy">
-	<itunes:category text="Politics" />
+		<itunes:category text="Improv"/>
 	</itunes:category>
+
+	<itunes:type>
+		episodic
+	</itunes:type>
 	
 	<itunes:complete>
 		no
@@ -69,11 +72,10 @@ version="2.0">
 		</title>
 
 		<description>
-			<![CDATA[
 			Thumo:http://twitter.com/PussyMusty
 			Jack:http://twitter.com/GardenClog
 			Jake:http://twitter.com/FoolishSuckaa
-			Cole:http://twitter.com/HolesomePosts]]>
+			Cole:http://twitter.com/HolesomePosts
 		</description>
 
 		<media:content 
@@ -87,16 +89,14 @@ version="2.0">
 
 		<itunes:episodeType>
 			full
-		</itunesLepisodeType>
+		</itunes:episodeType>
 
-		<itunes:summary><![CDATA[
+		<itunes:summary>
 			Thumo:http://twitter.com/PussyMusty
 			Jack:http://twitter.com/GardenClog
 			Jake:http://twitter.com/FoolishSuckaa
-			Cole:http://twitter.com/HolesomePosts]]>	
+			Cole:http://twitter.com/HolesomePosts	
 		</itunes:summary>
-	</item>
-
-	
+	</item>		
  </channel>
 </rss>
