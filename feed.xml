@@ -1,45 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rss xmlns:media="https://search.yahoo.com/mrss/"
+xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:dcterms="https://purl.org/dc/terms/"
+xmlns:spotify="https://www.spotify.com/ns/rss"
+xmlns:psc="https://podlove.org/simple-chapters/"
+version="2.0">
+</rss>
+
 <channel>
-	<title> Pawg Cast </title>
+	<title> Short-Bus Militia </title>
 	<link>https://www.pawgcast.com</link>
-	<description> Podcast from the pawg boys </description>
+	<description> Short-Bus Militia </description>
 	<language>en-us</language>
 
+	<itunes:author>
+		Short-Bus Militia
+	</itunes:author>
+
+	<itunes:image href="https://i.redd.it/6p4sjf1p8d521.jpg" />
+	
+	<itunes:explicit>
+		clean
+	<!-- yes -->
+	</itunes:explicit>
+
+	<itunes:category text="Comedy">
+	<itunes:category text="Politics" />
+	</itunes:category>
+	
+	<itunes:complete>
+		no
+	</itunes:complete>
+
+	<spotify:countryOfOrigin>
+		us
+	</spotify:countryOfOrigin>
+
+	
+	
 	<image>
 		<title>Pawg Cast</title>
 		<link>https://www.pawgcast.com</link>
-		<url>this is the image source url don't get them mixed up</url>
+		<url>https://i.redd.it/6p4sjf1p8d521.jpg</url>
+		
 		<width>400</width>
 		<height>400</height>
 	</image>
 
 	<item> 
-		<title>EP 1: </title>
-		<itunes:title> EP 1: </itunes:title>
-		<pubDate>Insert Publishing date here</pubDate>
-		<link><![CDATA[http://www.pawgcast.com]]></link>
-		<itunes:image href="http://" />
-		<description><![CDATA[
+		<guid isPermaLink="false">
+			Ep1
+		</guid>
+
+		<enclosure
+			url=""
+			type="audio/mpeg"
+			length=""
+		/>
+
+		<pubDate>
+			Thu, 20 Nov 2014 10:30:00 +0000
+		<!-- OR Thu, 20 Nov 2014 10:30:00 GMT -->
+		</pubDate>
+
+		<title>
+			Episode 1: TBD
+		</title>
+
+		<description>
+			<![CDATA[
 			Thumo:http://twitter.com/PussyMusty
 			Jack:http://twitter.com/GardenClog
 			Jake:http://twitter.com/FoolishSuckaa
-			Cole:http://twitter.com/HolesomePosts
-		]]></description>
-		<author>admin@tbd</author>
-		<comments>http://www.tbd</comments>
-		<category>Comedy</category>
-		<enclosure url="https://sawcon.info/podcast.mp4" length="tbd" type="video/mpeg" />
-		<itunes:duration>xx:xx:xx</itunes:duration>
-		<itunes:keywords />
-		<itunes:subtitle> <![CDATA[same as description]]> </itunes:subtitle>
+			Cole:http://twitter.com/HolesomePosts]]>
+		</description>
+
+		<media:content 
+			ype="audio/mpeg" 
+			url="https://example.com/sbigs02e09.mp4" 
+		/>
+
+		<itunes:duration>
+			2700
+		</itunes:duration>
+
+		<itunes:episodeType>
+			full
+		</itunesLepisodeType>
+
 		<itunes:summary><![CDATA[
 			Thumo:http://twitter.com/PussyMusty
 			Jack:http://twitter.com/GardenClog
 			Jake:http://twitter.com/FoolishSuckaa
-			Cole:http://twitter.com/HolesomePosts
-		]]></itunes:summary>
-		<itunesLepisodeType>full</itunesLepisodeType>
+			Cole:http://twitter.com/HolesomePosts]]>	
+		</itunes:summary>
 	</item>
 
 	
