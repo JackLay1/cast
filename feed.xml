@@ -37,10 +37,10 @@ A comedic podcasts with occasional leftist politics
 <itunes:category text="News">
 <itunes:category text="Politics"/>
 </itunes:category>
-<item
+<item>
 		<guid isPermaLink="false">
 			Ep1
 		</guid>
-	/>
+</item>
 </channel>
 </rss>
