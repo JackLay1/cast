@@ -1,113 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<rss xmlns:media="https://search.yahoo.com/mrss/"
-xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:dcterms="https://purl.org/dc/terms/"
-xmlns:spotify="https://www.spotify.com/ns/rss"
-xmlns:psc="https://podlove.org/simple-chapters/"
-version="2.0">
-
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
 <channel>
-	<title> Short-Bus Militia </title>
-	<link>https://www.pawgcast.com</link>
-	<description> Short-Bus Militia </description>
-	<language>en-us</language>
-
-	<itunes:author>
-		Short Bus Militia
-	</itunes:author>
-
-	<managingEditor>jachlay@gmail.com (jachlay@gmail.com)</managingEditor>
-
-	<itunes:image href="https://i.redd.it/6p4sjf1p8d521.jpg" />
-	
-	<itunes:explicit>
-		clean
-	<!-- yes -->
-	</itunes:explicit>
-
-	<itunes:category text="Comedy">
-		<itunes:category text="Improv"/>
-	</itunes:category>
-
-	<itunes:type>
-		episodic
-	</itunes:type>
-	
-	<itunes:complete>
-		no
-	</itunes:complete>
-
-	<spotify:countryOfOrigin>
-		us
-	</spotify:countryOfOrigin>
-
-
-	<image>
-		<title>Pawg Cast</title>
-		<link>https://www.pawgcast.com</link>
-		<url>https://i.redd.it/6p4sjf1p8d521.jpg</url>
-		
-		<width>400</width>
-		<height>400</height>
-	</image>
-
-	<itunes:owner>
-		<itunes:email>
-			jachlay@gmail.com
-		</itunes:email>
-	</itunes:owner>	
-	
-	<item> 
-		<guid isPermaLink="false">
-			Ep1
-		</guid>
-
-		<enclosure
-			url=""
-			type="audio/mpeg"
-			length=""
-		/>
-
-		<pubDate>
-			<!--Thu, 20 Nov 2014 10:30:00 +0000-->
-		<!-- OR Thu, 20 Nov 2014 10:30:00 GMT -->
-		</pubDate>
-
-		<title>
-			Episode 1: TBD
-		</title>
-
-		<description>
-			<![CDATA[
-			Thumo:http://twitter.com/PussyMusty
-			Jack:http://twitter.com/GardenClog
-			Jake:http://twitter.com/FoolishSuckaa
-			Cole:http://twitter.com/HolesomePosts
-			]]>
-		</description>
-
-		<media:content 
-			ype="audio/mpeg" 
-			url="https://example.com/sbigs02e09.mp4" 
-		/>
-
-		<itunes:duration>
-			2700
-		</itunes:duration>
-
-		<itunes:episodeType>
-			full
-		</itunes:episodeType>
-
-		<itunes:summary>
-			Thumo:http://twitter.com/PussyMusty
-			Jack:http://twitter.com/GardenClog
-			Jake:http://twitter.com/FoolishSuckaa
-			Cole:http://twitter.com/HolesomePosts	
-		</itunes:summary>
-
-		<itunes:author>Short Bus Militia</itunes:author>
-	</item>		
- </channel>
+<title>
+<![CDATA[ Short-Bus Militia ]]>
+</title>
+<link>https://rss.com/podcasts/shortbus/</link>
+<atom:link href="https://media.rss.com/shortbus/feed.xml" rel="self" type="application/rss+xml"/>
+<description>
+<![CDATA[
+A comedic podcasts with occasional leftist politics
+]]>
+</description>
+<generator>RSS.com</generator>
+<lastBuildDate>Mon, 06 Apr 2020 8:57:05 +0000</lastBuildDate>
+<language>en</language>
+<copyright>
+<![CDATA[ Short-Bus Militia 2020 ]]>
+</copyright>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<image>
+<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+<title>Short-Bus Militia</title>
+<link>https://rss.com/podcasts/shortbus</link>
+</image>
+<itunes:summary>
+<![CDATA[
+A comedic podcasts with occasional leftist politics
+]]>
+</itunes:summary>
+<itunes:author>Jack Lay</itunes:author>
+<itunes:owner>
+<itunes:name>Jack Lay</itunes:name>
+<itunes:email>jachlay@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:category text="Comedy"/>
+<itunes:category text="News">
+<itunes:category text="Politics"/>
+</itunes:category>
+<item/>
+</channel>
 </rss>
