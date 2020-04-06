@@ -14,7 +14,7 @@ version="2.0">
 	<language>en-us</language>
 
 	<itunes:author>
-		<![CDATA[Short-Bus Militia]]>
+		< Short Bus Militia>
 	</itunes:author>
 
 	<managingEditor>jachlay@gmail.com (jachlay@gmail.com)</managingEditor>
@@ -51,7 +51,7 @@ version="2.0">
 		<width>400</width>
 		<height>400</height>
 	</image>
-	
+
 	<itunes:owner>
 		<itunes:email>
 			jachlay@gmail.com
