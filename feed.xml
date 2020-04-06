@@ -17,6 +17,8 @@ version="2.0">
 		<![CDATA[Short-Bus Militia]]>
 	</itunes:author>
 
+	<managingEditor>jachlay@gmail.com (jachlay@gmail.com)</managingEditor>
+
 	<itunes:image href="https://i.redd.it/6p4sjf1p8d521.jpg" />
 	
 	<itunes:explicit>
@@ -40,12 +42,7 @@ version="2.0">
 		us
 	</spotify:countryOfOrigin>
 
-	<itunes:owner>
-		<itunes:email>
-			jachlay@gmail.com
-		</itunes:email>
-	</itunes:owner>	
-	
+
 	<image>
 		<title>Pawg Cast</title>
 		<link>https://www.pawgcast.com</link>
@@ -54,7 +51,13 @@ version="2.0">
 		<width>400</width>
 		<height>400</height>
 	</image>
-
+	
+	<itunes:owner>
+		<itunes:email>
+			jachlay@gmail.com
+		</itunes:email>
+	</itunes:owner>	
+	
 	<item> 
 		<guid isPermaLink="false">
 			Ep1
@@ -103,6 +106,8 @@ version="2.0">
 			Jake:http://twitter.com/FoolishSuckaa
 			Cole:http://twitter.com/HolesomePosts	
 		</itunes:summary>
+
+		<itunes:author>Short Bus Militia</itunes:author>
 	</item>		
  </channel>
 </rss>
