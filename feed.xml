@@ -3,8 +3,8 @@
 <title>
 <![CDATA[ Short-Bus Militia ]]>
 </title>
-<link>https://pawgcast.com/feed.xml</link>
-<atom:link href="https://pawgcast.com/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://rss.com/podcasts/shortbus/</link>
+<atom:link href="https://media.rss.com/shortbus/feed.xml" rel="self" type="application/rss+xml"/>
 <description>
 <![CDATA[
 A comedic podcasts with occasional leftist politics
@@ -37,6 +37,10 @@ A comedic podcasts with occasional leftist politics
 <itunes:category text="News">
 <itunes:category text="Politics"/>
 </itunes:category>
-<item/>
+<item
+		<guid isPermaLink="false">
+			Ep1
+		</guid>
+	/>
 </channel>
 </rss>
