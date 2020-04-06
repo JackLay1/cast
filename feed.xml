@@ -14,7 +14,7 @@ version="2.0">
 	<language>en-us</language>
 
 	<itunes:author>
-		Short-Bus Militia
+		<![CDATA[Short-Bus Militia]]>
 	</itunes:author>
 
 	<itunes:image href="https://i.redd.it/6p4sjf1p8d521.jpg" />
