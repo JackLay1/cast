@@ -3,7 +3,7 @@
 <title>
 <![CDATA[ Short-Bus Militia ]]>
 </title>
-<link>https://pawgcast.com/pod</link>
+<link>https://pawgcast.com/pods</link>
 <atom:link href="https://pawgcast.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>
 <![CDATA[
@@ -14,7 +14,7 @@ filler
 <copyright>
 <![CDATA[ Short-Bus Militia 2020 ]]>
 </copyright>
-<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+<itunes:image href="https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e.jpg"/>
 <image>
 <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
 <title>Short-Bus Militia</title>
@@ -35,10 +35,20 @@ filler
 <itunes:category text="News">
 <itunes:category text="Politics"/>
 </itunes:category>
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
-		<guid isPermaLink="false">
-			Ep1
-		</guid>
-</item>
+	<guid isPermaLink="false"> Ep1 </guid>
+    <title>Seven tours of the office</title>
+    <itunes:summary>Description of podcast episode content</itunes:summary>
+    <description>Description of podcast episode content</description>
+    <link>http://example.com/podcast-1</link>
+    <enclosure url="http://pawgcast.com/pods/ep1.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
+    <itunes:author>Short=Bus Militia</itunes:author>
+    <itunes:duration>00:32:16</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>http://example.com/podcast-1</guid>
+</item> 
+<!--END REPEAT--> 
 </channel>
 </rss>
