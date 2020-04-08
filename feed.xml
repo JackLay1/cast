@@ -14,9 +14,9 @@ filler
 <copyright>
 <![CDATA[ Short-Bus Militia 2020 ]]>
 </copyright>
-<itunes:image href="https://st3.depositphotos.com/4196725/19347/i/1600/depositphotos_193473234-stock-photo-young-handsome-man-angry-expression.jpg"/>
+<itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
 <image>
-<url>https://st3.depositphotos.com/4196725/19347/i/1600/depositphotos_193473234-stock-photo-young-handsome-man-angry-expression.jpg</url>
+<url>https://assets.rss.com/images/no-cover-1400.jpg</url>
 <title>Short-Bus Militia</title>
 <link>https://pawgcast.com/pods</link>
 </image>
@@ -43,11 +43,11 @@ filler
     <description>Description of podcast episode content</description>
     <link>http://pawgcast.com/pod</link>
     <enclosure url="http://pawgcast.com/pods/ep1.mp3" type="audio/mpeg" length="1024"></enclosure>
-    <pubDate>Sat, 11 Apr 2020 0:01:07 +0000</pubDate>
+    <pubDate>Sat, 11 Apr 2020 :01:07 +0000</pubDate>
     <itunes:author>Short-Bus Militia</itunes:author>
     <itunes:duration>00:32:16</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
-    <guid>http://example.com/podcast-1</guid>
+    <guid>http://pawgcast.com/pods/ep1</guid>
 </item> 
 <!--END REPEAT--> 
 </channel>
